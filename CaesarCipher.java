@@ -93,7 +93,7 @@ public class CaesarCipher
         }
     }
     
-    public static void main(){
+    public static void main(String[] args){
         
       String string1 = "Get me a vanilla ice cream, make it a double.";
       System.out.println(string1);
